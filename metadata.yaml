@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '40976'
     url: http://www.gutenberg.org/2009/agents/40976
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41104#The-Amazing-ArgentineA-New-Land-of-Enterprise
 gutenberg_issued: '2012-10-18'
 gutenberg_type: Text
 identifiers:
